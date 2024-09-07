@@ -1,7 +1,8 @@
 body {
-    background-image;
+    
     font-family: Arial, sans-serif;
     text-align: center;
+    padding: 100px;
   }
   
   form {
@@ -20,11 +21,12 @@ body {
   
   button[type="submit"] {
     padding: 10px 20px;
-    background-color: #4CAF50; /* Verde */
+    background-color: red; /* Verde */
     color: white;
     border: none;
     border-radius: 0 5px 5px 0;
     cursor: pointer;
   
   }
+ 
   
