@@ -22,15 +22,7 @@ body {
     width: 250px; /* Ajuste a largura conforme necessário */
   }
   
-  button[type="submit"] {
-    padding: 10px 20px;
-    background-color: red; /* Verde */
-    color: white;
-    border: none;
-    border-radius: 0 5px 5px 0;
-    cursor: pointer;
-  
-  }
+
   footer{
     color:black; 
 
@@ -38,6 +30,23 @@ body {
 
   header{
     color:black;
+  }
+
+  #atencao {
+    color: red;
+    font-weight: bold;
+  }
+
+  button {
+    background-color: red;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px 2px;
+    cursor: pointer;
   }
  
   
